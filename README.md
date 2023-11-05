@@ -5,7 +5,7 @@
 # README: Home Wi-Fi Router Security Project
 
 ## Introduction
-Welcome to our Home Wi-Fi Router Security Project for 2023! In this project, we've focused on essential precautions and measures to secure your home Wi-Fi network, protect it against hackers, and ensure the safety of your data. This project was a collaborative effort by Yash N (B002), Saakshi Jain (B033), and Anika Mayekar (B040).
+Welcome to our Home Wi-Fi Router Security Project for 2023! In this project, we've focused on essential precautions and measures to secure your home Wi-Fi network, protect it against hackers, and ensure the safety of your data.
 
 ## Project Overview
 A Wi-Fi router is a vital networking device that connects your home to the internet, enabling multiple devices to access and communicate over a wireless local network. Ensuring the security of your Wi-Fi router is crucial in today's interconnected world.
