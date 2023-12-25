@@ -37,3 +37,4 @@ To further enhance your home Wi-Fi network security, consider the following:
 ## Conclusion
 Securing your home Wi-Fi router is not only about protecting your personal information but also safeguarding your privacy and preventing unauthorized access. By following the precautions and best practices outlined in this project, you can enjoy a safer and more secure online experience.
 
+![image](https://github.com/saakshijain2022/WiFiGuard_2023/assets/110716472/754ff66c-a3c9-4eff-8644-350f896d48c7)
